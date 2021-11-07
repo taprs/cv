@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Nikita Tikhomirov's CV
-bibliography: publications_en.bib
+bibliography: _bibliography/publications_en.bib
 csl: https://raw.githubusercontent.com/citation-style-language/styles-distribution/master/apa-cv.csl
 nocite: '@*'
 ---
@@ -34,7 +34,7 @@ Russian
 Evolution, biodiversity, biogeography
 
 `Methods`
-Bio- and geoinformatics, plant morphology and anatomy, field work
+Bio- and geoinformatics, plant morphology and anatomy, field surveys
 
 ## Education
 
@@ -76,4 +76,20 @@ Merit scholarship, Faculty of Biology, Lomonosov Moscow State University
 
 ## Publications
 
-Available via [ORCID](#top)
+`2021`
+<div style = "position: relative; left: 33%; width: 65%">{% bibliography --query @*[year=2021] %}</div>
+
+`2020`
+<div style = "position: relative; left: 33%; width: 65%">{% bibliography --query @*[year=2020] %}</div>
+
+`2019`
+<div style = "position: relative; left: 33%; width: 65%">{% bibliography --query @*[year=2019] %}</div>
+
+`2018`
+<div style = "position: relative; left: 33%; width: 65%">{% bibliography --query @*[year=2018] %}</div>
+
+`2017`
+<div style = "position: relative; left: 33%; width: 65%">{% bibliography --query @*[year=2017] %}</div>
+
+`2016`
+<div style = "position: relative; left: 33%; width: 65%">{% bibliography --query @*[year=2016] %}</div>
