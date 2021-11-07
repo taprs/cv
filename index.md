@@ -40,7 +40,6 @@ Bio- and geoinformatics, plant morphology and anatomy, field work
 
 `2020–2022`
 __Lomonosov Moscow State University__
-<br>`(expected)`
 
 - MSc, department of Ecology and Plant Geography
 
@@ -65,7 +64,6 @@ __Papanin Institute for Biology of Inland Waters Russian Academy of Sciences__
 
 `2021–2022`
 Vladimir Potanin Foundation Fellowship for talented Master’s students
-<br>`(expected)`
 
 `2020`
 Best Young Scientist's Report, IX International conference on aquatic macrophytes "Hydrobotany 2020" (Borok, Russia, 17—21 October 2020)
@@ -75,8 +73,7 @@ Lomonosov Moscow State University scholarship for students with notable achievem
 
 `2016–2022`
 Merit scholarship, Faculty of Biology , Lomonosov Moscow State University
-<br>`(expected)`
 
 ## Publications
 
-Available via [ORCID](#top).
+Available via [ORCID](#top)
