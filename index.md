@@ -34,7 +34,7 @@ Russian
 Evolution, biodiversity, biogeography
 
 `Methods`
-Bio- and geoinformatics, plant morphology and anatomy, field work
+Bio- and geoinformatics, plant morphology and anatomy, field surveys
 
 ## Education
 
@@ -78,10 +78,20 @@ Merit scholarship, Faculty of Biology, Lomonosov Moscow State University
 
 Available via [ORCID](#top)
 
-<div style = "position: relative;
-              left: 33%;
-              width: 65%">
+`2021`
+<div style = "position: relative; left: 33%; width: 65%">{% bibliography --query @*[year=2021] %}</div>
 
-{% bibliography %}
+`2020`
+<div style = "position: relative; left: 33%; width: 65%">{% bibliography --query @*[year=2020] %}</div>
 
-</div>
+`2019`
+<div style = "position: relative; left: 33%; width: 65%">{% bibliography --query @*[year=2019] %}</div>
+
+`2018`
+<div style = "position: relative; left: 33%; width: 65%">{% bibliography --query @*[year=2018] %}</div>
+
+`2017`
+<div style = "position: relative; left: 33%; width: 65%">{% bibliography --query @*[year=2017] %}</div>
+
+`2016`
+<div style = "position: relative; left: 33%; width: 65%">{% bibliography --query @*[year=2016] %}</div>
