@@ -61,11 +61,11 @@ __Papanin Institute for Biology of Inland Waters Russian Academy of Sciences__
 
 - Senior laboratory assistant, Laboratory of Systematics and Geography of Aquatic Plants
 
-## Awards and achievements
+## Achievements
 
-`2021–2022`<br>
-`(expected)`
+`2021–2022`
 Vladimir Potanin Foundation Fellowship for talented Master’s students
+<br>`(expected)`
 
 `2020`
 Best Young Scientist's Report, IX International conference on aquatic macrophytes "Hydrobotany 2020" (Borok, Russia, 17—21 October 2020)
@@ -73,9 +73,9 @@ Best Young Scientist's Report, IX International conference on aquatic macrophyte
 `2020`
 Lomonosov Moscow State University scholarship for students with notable achievements in science, social activities, sports or art
 
-`2016–2022`<br>
-`(expected)`
+`2016–2022`
 Merit scholarship, Faculty of Biology , Lomonosov Moscow State University
+<br>`(expected)`
 
 ## Publications
 
