@@ -8,10 +8,6 @@ nocite: '@*'
 # Nikita Tikhomirov
 Molecular genetics and plant geography
 
-<div id = "contacts">
-
-##  
-
 <span style = "font-size: 90%">
 Laboratory of Systematics and Geography of Aquatic Plants<br>
 Papanin Institute for Biology of Inland Waters Russian Academy of Sciences<br>
@@ -20,7 +16,7 @@ Papanin Institute for Biology of Inland Waters Russian Academy of Sciences<br>
 <div id="webaddress">
 <a href="mailto:nikita-tikhomirov@yandex.ru">nikita-tikhomirov@yandex.ru</a> | <a href="https://orcid.org/0000-0003-1564-0265" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0003-1564-0265</a>
 </div>
-</div>
+
 ## Personal information
 
 `Date of birth`
@@ -42,7 +38,8 @@ Bio- and geoinformatics, plant morphology and anatomy, field work
 
 ## Education
 
-`2020–2022 (expected)`
+`2020–2022`<br>
+`(expected)`
 __Lomonosov Moscow State University__
 
 - MSc, department of Ecology and Plant Geography
@@ -66,10 +63,8 @@ __Papanin Institute for Biology of Inland Waters Russian Academy of Sciences__
 
 ## Awards and achievements
 
-```
-2021–2022
-(expected)
-```
+`2021–2022`<br>
+`(expected)`
 Vladimir Potanin Foundation Fellowship for talented Master’s students
 
 `2020`
@@ -78,12 +73,10 @@ Best Young Scientist's Report, IX International conference on aquatic macrophyte
 `2020`
 Lomonosov Moscow State University scholarship for students with notable achievements in science, social activities, sports or art
 
-```
-2016–2022
-(expected)
-```
+`2016–2022`<br>
+`(expected)`
 Merit scholarship, Faculty of Biology , Lomonosov Moscow State University
 
 ## Publications
 
-Available via [ORCID](#contacts).
+Available via [ORCID](#top).
