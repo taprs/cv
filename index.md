@@ -38,9 +38,9 @@ Bio- and geoinformatics, plant morphology and anatomy, field work
 
 ## Education
 
-`2020–2022`<br>
-`(expected)`
+`2020–2022`
 __Lomonosov Moscow State University__
+`(expected)`
 
 - MSc, department of Ecology and Plant Geography
 
