@@ -124,12 +124,14 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 28%;
+	margin-bottom: 0.3em;
 }
 
 h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
+	margin-bottom: 0.9em;
 }
 
 h2 {
