@@ -6,7 +6,7 @@ csl: https://raw.githubusercontent.com/citation-style-language/styles-distributi
 nocite: '@*'
 ---
 # Nikita Tikhomirov
-Molecular genetics and plant geography
+MSc student at the Moscow State University
 
 <span style = "font-size: 90%">
 Laboratory of Systematics and Geography of Aquatic Plants<br>
