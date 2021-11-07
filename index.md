@@ -72,7 +72,7 @@ Best Young Scientist's Report, IX International conference on aquatic macrophyte
 Lomonosov Moscow State University scholarship for students with notable achievements in science, social activities, sports or art
 
 `2016–2022`
-Merit scholarship, Faculty of Biology , Lomonosov Moscow State University
+Merit scholarship, Faculty of Biology, Lomonosov Moscow State University
 
 ## Publications
 
