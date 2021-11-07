@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Nikita Tikhomirov's CV
-bibliography: publications_en.bib
+bibliography: _bibliography/publications_en.bib
 csl: https://raw.githubusercontent.com/citation-style-language/styles-distribution/master/apa-cv.csl
 nocite: '@*'
 ---
@@ -77,3 +77,11 @@ Merit scholarship, Faculty of Biology, Lomonosov Moscow State University
 ## Publications
 
 Available via [ORCID](#top)
+
+<div style = "position: relative;
+              left: 33%;
+              width: 65%">
+
+{% bibliography %}
+
+</div>

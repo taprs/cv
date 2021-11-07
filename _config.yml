@@ -1,2 +1,7 @@
 markdown:   kramdown
 style:  kjhealy
+plugins: ['jekyll/scholar']
+scholar:
+  bibliography: publications_en.bib
+  sort_by: year
+  order: descending
