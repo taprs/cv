@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Nikita Tikhomirov's CV
+title: Nikita Tikhomirov
 bibliography: _bibliography/publications_en.bib
 csl: https://raw.githubusercontent.com/citation-style-language/styles-distribution/master/apa-cv.csl
 nocite: '@*'
