@@ -76,6 +76,10 @@ Merit scholarship, Faculty of Biology, Lomonosov Moscow State University
 
 ## Publications
 
+Books: {% bibliography_count --query @book %}<br>
+Articles: {% bibliography_count --query @article %}<br>
+In proceedings: {% bibliography_count --query @inproceedings %}
+
 `2021`
 <div style = "position: relative; left: 33%; width: 65%">{% bibliography --query @*[year=2021] %}</div>
 
